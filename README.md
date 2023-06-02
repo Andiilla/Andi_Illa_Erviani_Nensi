@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Andi Illa Erviani Nensi</h1>
 <h3 align="center">A passionate Data Scientist with experience in building end-to-end machine learning projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/aI5uuHl.gif">
